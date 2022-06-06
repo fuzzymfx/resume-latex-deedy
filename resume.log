@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.8) (preloaded format=xelatex 2021.10.15)  21 MAY 2022 09:21
+This is XeTeX, Version 3.141592653-2.6-0.999993 (MiKTeX 21.8) (preloaded format=xelatex 2021.10.15)  6 JUN 2022 13:50
 entering extended mode
 **./resume.tex
 (resume.tex
@@ -446,8 +446,7 @@ ght]/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
 
 TextBlockOrigin set to 0mm x 5mm
-)
-No file resume.aux.
+) (resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
@@ -461,7 +460,7 @@ LaTeX Font Info:    ... okay on input line 51.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
 1.
-(C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd
+ (C:\Program Files\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 51.
@@ -533,12 +532,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 51.
 LaTeX Info: Redefining \pageref on input line 51.
 LaTeX Info: Redefining \nameref on input line 51.
+
+(resume.out) (resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
-
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
 
 isodate: babel.sty has been loaded
 
@@ -672,20 +670,14 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  7D6C014B022F2031ACAF420CE9985BC8;687.
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: AD1A3FF266976D5F13294BAA243704AC;560.
  ) 
 Here is how much of TeX's memory you used:
- 15802 strings out of 411295
- 284010 string characters out of 2836124
- 677876 words of memory out of 3000000
- 36042 multiletter control sequences out of 15000+600000
+ 15809 strings out of 411295
+ 284072 string characters out of 2836124
+ 678705 words of memory out of 3000000
+ 36043 multiletter control sequences out of 15000+600000
  405890 words of font info for 68 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  102i,7n,136p,602b,335s stack positions out of 5000i,500n,10000p,200000b,80000s
