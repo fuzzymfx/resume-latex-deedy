@@ -33,7 +33,7 @@ Version 1.1 (30/4/2014)
 Original author:  
 
 [Debarghya Das](http://debarghyadas.com)  
-[Original repository](https://github.com/deedydas/Deedy-Resume)
+[Original repository](https://github.com/deedydas/Deedy-Resume)  
 IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX  
 This template uses several fonts not included with Windows/Linux by default. If you get compilation errors saying a font is missing,find the line on which the font is used and either change it to a font included with your operating system or comment the line out to use the default font.
 
@@ -44,8 +44,6 @@ TODO:
 3. Add styling information for a "Projects/Hacks" section.
 4. Add location/address information
 5. Merge OpenFont and MacFonts as a single sty with options.
-
-CHANGELOG:
 
 Known Issues:
 
