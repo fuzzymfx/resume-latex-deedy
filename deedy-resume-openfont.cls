@@ -25,6 +25,13 @@
 \definecolor{headings}{HTML}{6A6A6A}
 \definecolor{subheadings}{HTML}{333333}
 
+\hypersetup{%
+  colorlinks=false,% hyperlinks will be black
+  linkbordercolor=red,% hyperlink borders will be red
+	pdfborderstyle={/S/U/W 1}% border style will be underline of width 1pt
+}
+
+
 % Set main fonts
 \defaultfontfeatures{Mapping=tex-text}
 \setmainfont[Color=primary, Path = fonts/raleway/]{Raleway-ExtraLight}
@@ -34,11 +41,10 @@
 % Date command
 \setlength{\TPHorizModule}{1mm}
 \setlength{\TPVertModule}{1mm}
-\textblockorigin{0mm}{5mm} % start everyth
+\textblockorigin{-2mm}{5mm} % start everyth
 \newcommand{\lastupdated}{\begin{textblock}{60}(165,0)
 \color{date}\fontspec[Path = fonts/raleway/]{Raleway-ExtraLight}\fontsize{8pt}{10pt}\selectfont
-Last Updated on
-\today
+Latest update: \today
 \end{textblock}}
 
 \newcommand{\linksline}[1]{
